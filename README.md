@@ -19,7 +19,7 @@ Click start and follow the instructions.
 
 <h2>Example</h2>
 /add 5 8
-output: =13
+<div>output: =13</div>
 
 /subtract 5 8
-output: =-3
+<div>output: =-3</div>
