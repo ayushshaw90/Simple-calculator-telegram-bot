@@ -18,8 +18,9 @@ Click start and follow the instructions.
 /divide <number 1> <number 2>
 
 <h2>Example</h2>
+
 /add 5 8
 <div>output: =13</div>
-
+<hr>
 /subtract 5 8
 <div>output: =-3</div>
