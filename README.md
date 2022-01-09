@@ -11,11 +11,16 @@ Click start and follow the instructions.
 
 <h2>Commands:</h2>
 /start : Gives a general introduction about the bot.
+<br>
 /help : Lists the number of commands
-/add <number 1> <number 2>
-/subtract <number 1> <number 2>
-/multiply <number 1> <number 2>
-/divide <number 1> <number 2>
+<br>
+/add number1 number2
+<br>
+/subtract number1 number2
+<br>
+/multiply number1 number2
+<br>
+/divide number1 number2
 
 <h2>Example</h2>
 
